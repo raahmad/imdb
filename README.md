@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/mazenramadan/imdb-most-popular-films-and-series
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Download all csv files, workbooks, and r script
+1. Download and save all csv files, workbooks, and r script
 2. Open all csv files and workbooks with Microsft Excel
 3. Open imdb.r with RStudio
 4. Within RStudio, set working directory to wherever you completed step 1
