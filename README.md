@@ -2,7 +2,7 @@
 
 ### Data cleaning and linear regression models used to predict imdb rating scores
 
-The purpose of this analysis is to provide movie theaters and television networks infomation to better slot their movies/shows along with figuring out how many showings they should provide. The linear regression formula created gives the theaters and networks a "calculator" they can use to predict how good of a score a movie/show gets. The better the score, the better the indication they have to show it at better times and have more showings. This analysis was accomplished by downloading an imdb dataset from Kaggle, removing duplicates in Microsoft Excel, implemening pivot tables to create categorical binary columns for certain features, and running linear regression models in RStudio.
+The purpose of this analysis is to provide movie theaters and television networks infomation to better slot their movies/shows along with figuring out how many showings they should provide. The linear regression formula created gives the theaters and networks a "calculator" they can use to predict how good of a score a movie/show gets. The better the score, the better the indication they should show it at better times and have more showings. This analysis was accomplished by downloading an imdb dataset from Kaggle, removing duplicates in Microsoft Excel, implemening pivot tables to create categorical binary columns for certain features, and running linear regression models in RStudio.
 
 https://www.kaggle.com/datasets/mazenramadan/imdb-most-popular-films-and-series
 
